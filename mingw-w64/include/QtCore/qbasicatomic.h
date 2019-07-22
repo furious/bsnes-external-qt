@@ -38,7 +38,7 @@
 **
 ****************************************************************************/
 
-#include <QtCore/qglobal.h>
+#include <QtCore/qatomic.h>
 
 #ifndef QBASICATOMIC_H
 #define QBASICATOMIC_H
